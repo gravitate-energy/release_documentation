@@ -1,7 +1,7 @@
 # Welcome to Gravitate Documentation
 
 <figure markdown>
-  ![Image title](/assets/Logos/gravitate_dark.png){ width="300" }
+  ![Image title](assets/Logos/gravitate_dark.png){ width="300" }
 </figure>
 
 For support requests visit [Gravitate Support Portal](https://gravitatedxp.atlassian.net/servicedesk/customer/portal/2).
