@@ -1,9 +1,5 @@
 # Release Notes: October 18, 2022
 
-<figure markdown>
-  ![Image title](/assets/Logos/gravitate_dark.png){ width="300" }
-</figure>
-
 ???+ Versions
 
     - 2022 Web Portal Version: (v.0.3.98)
