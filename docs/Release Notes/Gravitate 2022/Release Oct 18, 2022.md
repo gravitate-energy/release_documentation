@@ -23,7 +23,7 @@ a tank at a given point in time. Lastly, we made the tank number more visible on
 Monitoring, on the overview and detail pages, and in the Order Wizard as well.
 
 <figure markdown>
-  ![Image title](Oct_18_2022/sites.png){ width="500" }
+  ![Image title](images/sites.png){ width="500" }
   <figcaption>Site monitoring: site details</figcaption>
 
 </figure>
@@ -39,7 +39,7 @@ there are multiple delivery tickets for a single order those can be viewed and a
 individually by selecting the store number the ticket is associated with.
 
 <figure markdown>
-  ![Image title](Oct_18_2022/bols.png){ width="500" }
+  ![Image title](images/bols.png){ width="500" }
   <figcaption>Order movements</figcaption>
 
 </figure>
@@ -53,7 +53,7 @@ trailer configurations. Within order dispatch you can now see what type trailer 
 each order was created with and the trailer configuration each driver is assigned to.
 
 <figure markdown>
-  ![Image title](Oct_18_2022/dispatch.png){ width="500" }
+  ![Image title](images/dispatch.png){ width="500" }
   <figcaption>Order dispatch: driver grid</figcaption>
 
 </figure>
@@ -70,7 +70,7 @@ is when editing the order directly. If needed, the trailer configuration can be 
 order, when editing or creating, before dispatching to a driver.
 
 <figure markdown>
-  ![Image title](Oct_18_2022/trailer.png){ width="500" }
+  ![Image title](images/trailer.png){ width="500" }
   <figcaption>Order details</figcaption>
 
 </figure>
@@ -80,7 +80,7 @@ changes together so that they can be viewed as a single action. (This feature ca
 upon request)
 
 <figure markdown>
-  ![Image title](Oct_18_2022/flags.png){ width="500" }
+  ![Image title](images/flags.png){ width="500" }
   <figcaption>Order audit: flags</figcaption>
 
 </figure>
